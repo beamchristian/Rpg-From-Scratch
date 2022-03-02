@@ -3418,3 +3418,189 @@ Assets/Asset Packs/InfinityPBR/_InfinityPBR Human - Humans/Models/z_Deprecated (
 Assets/Asset Packs/InfinityPBR/_InfinityPBR Human - Humans/Models/z_Deprecated (Will be removed)/[Deprecated] No Body or Wardrobe Morphing/Materials/Hair_Buzz.mat.meta
 Assets/Asset Packs/InfinityPBR/_InfinityPBR Human - Humans/Models/z_Deprecated (Will be removed)/[Deprecated] No Body or Wardrobe Morphing/Materials/Hair.mat.meta
 Assets/Asset Packs/InfinityPBR/_InfinityPBR Human - Humans/Models/z_Deprecated (Will be removed)/[Deprecated] No Body or Wardrobe Morphing/Materials/Gladiator_Belt.mat.meta
+Assets/Asset Packs/Enviro - Sky and Weather.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Materials.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Materials/Enviro_CloudsLayer_1.mat.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Materials/Enviro_CloudsLayer_2.mat.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Materials/Weather.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Materials/Weather/Enviro_Lightning_Glow.mat.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Materials/Weather/Enviro_Lightning_Strikes.mat.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Materials/Weather/Enviro_RainParticle_HQ.mat.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Materials/Weather/Enviro_RainSplash.mat.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Materials/Weather/Enviro_SnowParticle2_HQ.mat.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Materials/Weather/Enviro_SnowParticle_HQ.mat.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Prefabs.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Prefabs/Enviro_Lightning_Strike.prefab.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Prefabs/Particle Effects.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Prefabs/Particle Effects/Heave Snow HQ.prefab.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Prefabs/Particle Effects/Light Rain HQ.prefab.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Prefabs/Particle Effects/Light Snow HQ.prefab.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Prefabs/Particle Effects/Medium Rain HQ.prefab.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Prefabs/Particle Effects/Near Light Snow HQ.prefab.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Prefabs/Particle Effects/Near Snow HQ.prefab.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Prefabs/Particle Effects/Near Snow VR.prefab.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Prefabs/Particle Effects/Rain VR.prefab.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Prefabs/Particle Effects/Snow VR.prefab.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Prefabs/Particle Effects/Storm HQ.prefab.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Prefabs/Satellites.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Prefabs/Satellites/Moon.prefab.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Prefabs/SFX Holder.prefab.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Profiles.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Profiles/Internal.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Profiles/Internal/enviro_internal_default_profile.asset.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Profiles/PostEffect Profile.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Profiles/PostEffect Profile/Enviro Post Effect v2.asset.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Profiles/PostEffect Profile/Enviro Post FX.asset.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Profiles/Weather Presets.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Profiles/Weather Presets/Clear Sky.asset.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Profiles/Weather Presets/Cloudy 1.asset.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Profiles/Weather Presets/Cloudy 2.asset.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Profiles/Weather Presets/Cloudy 3.asset.meta
+*.hlsl
+*.cginc
+*.pdf
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Profiles/Weather Presets/Cloudy 4.asset.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Profiles/Weather Presets/Foggy.asset.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Profiles/Weather Presets/Heavy Rain.asset.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Profiles/Weather Presets/Heavy Snow.asset.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Profiles/Weather Presets/Light Rain.asset.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Profiles/Weather Presets/Light Snow.asset.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Profiles/Weather Presets/Storm.asset.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Resources.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Resources/Shaders.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Resources/Shaders/Core.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Resources/Shaders/Core/EnviroFogCore.cginc.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Resources/Shaders/Core/EnviroFogCore.hlsl.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Resources/Shaders/Effects.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Resources/Shaders/Effects/EnviroClearLightShafts.shader.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Resources/Shaders/Effects/EnviroLightShafts.shader.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Resources/Shaders/EnviroBakeCubemap.shader.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Resources/Shaders/EnviroParticleClouds.shader.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Resources/Shaders/EnviroReflectionProbe.shader.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Resources/Shaders/EnviroSkyboxSimple.shader.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Resources/tex_enviro_dither.png.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Resources/tex_enviro_flat_base.png.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Resources/tex_enviro_flat_detail.png.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Resources/tex_enviro_linear.png.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Scripts/3rd Party Integrations.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Scripts/3rd Party Integrations/CTS Integration/CTS Integration Quickstart.txt.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Scripts/3rd Party Integrations/FogVolume3 Integration/Fog Volume 3 Integration.txt.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/SFX.meta
+*.ogg
+Assets/Asset Packs/Enviro - Sky and Weather/Core/SFX/Ambient.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/SFX/Ambient/sfx_enviro_ambient_day.ogg.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/SFX/Ambient/sfx_enviro_ambient_night.ogg.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/SFX/Thunder.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/SFX/Thunder/SFX_Thunder_1.wav.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/SFX/Thunder/SFX_Thunder_2.wav.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/SFX/Thunder/SFX_Thunder_3.wav.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/SFX/Thunder/SFX_Thunder_4.wav.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/SFX/Thunder/SFX_Thunder_5.wav.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/SFX/Thunder/SFX_Thunder_6.wav.meta
+*.rar
+Assets/Asset Packs/Enviro - Sky and Weather/Core/SFX/Thunder/SFX_Thunder_7.wav.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/SFX/Thunder/SFX_Thunder_8.wav.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/SFX/Weather.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/SFX/Weather/sfx_enviro_blizzard.wav.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/SFX/Weather/sfx_enviro_heavyrain.wav.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/SFX/Weather/sfx_enviro_heavyrain2.wav.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/SFX/Weather/sfx_enviro_liightrain.wav.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/SFX/Weather/sfx_enviro_storm.wav.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/SFX/Weather/sfx_enviro_wind_rain.wav.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/SFX/Weather/sfx_envirolightrain2.wav.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Shaders.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Shaders/Grass.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Shaders/Grass/EnviroSnowOnTerrainGrassReplacement.rar.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Shaders/Particle.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Shaders/Particle/EnviroLitParticles.shader.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Shaders/Particle/EnviroParticlesAdditive.shader.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Shaders/Particle/EnviroParticlesAlphaBlend.shader.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Shaders/Particle/EnviroParticlesLightning.shader.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Shaders/Particle/EnviroWeatherParticles.shader.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Shaders/Particle/EnviroWeatherParticlesAdditive.shader.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Shaders/Transparent.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Enviro Lite/Prefabs/Particle Effects/Light Snow LQ.prefab.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Enviro Lite/Prefabs/Particle Effects/Light Rain LQ.prefab.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Enviro Lite/Prefabs/Particle Effects/Heave Snow LQ.prefab.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Enviro Lite/Prefabs/Particle Effects.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Enviro Lite/Prefabs/Internal/Internal_Enviro_LW_MOBILE.prefab.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Enviro Lite/Prefabs/Particle Effects/Storm LQ.prefab.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Enviro Lite/Profiles.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Enviro Lite/Profiles/Enviro Profile Lite Default.asset.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Enviro Lite/Profiles/Enviro Profile Lite Mobiles.asset.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Enviro Lite/Profiles/Weather Presets.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Enviro Lite/Profiles/Weather Presets/Clear Sky LQ.asset.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Enviro Lite/Profiles/Weather Presets/Cloudy 1 LQ.asset.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Enviro Lite/Profiles/Weather Presets/Cloudy 2 LQ.asset.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Enviro Lite/Profiles/Weather Presets/Cloudy 3 LQ.asset.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Enviro Lite/Profiles/Weather Presets/Cloudy 4 LQ.asset.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Enviro Lite/Profiles/Weather Presets/Foggy LQ.asset.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Enviro Lite/Profiles/Weather Presets/Heavy Rain LQ.asset.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Enviro Lite/Profiles/Weather Presets/Heavy Snow LQ.asset.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Enviro Lite/Profiles/Weather Presets/Light Rain LQ.asset.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Enviro Lite/Profiles/Weather Presets/Light Snow LQ.asset.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Enviro Lite/Profiles/Weather Presets/Storm LQ.asset.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Enviro Lite/Resources.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Enviro Lite/Resources/Shaders.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Enviro Lite/Resources/Shaders/EnviroLiteFogRendering.shader.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Enviro Lite/Resources/Shaders/EnviroLiteFogRenderingSimple.shader.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Shaders/Transparent/EnviroTransparent.shader.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Shaders/Transparent/EnviroTransparentMetallic.shader.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Textures.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Textures/enviro_dust_particles.png.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Textures/enviro_lightning_glow.png.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Textures/enviro_lightning_particles.png.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Textures/enviro_particle_clouds.psd.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Textures/enviro_rain_particles.png.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Textures/enviro_rainRipple_particles.png.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Textures/enviro_rainSplash_particles.png.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Textures/enviro_snow_particles.png.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Textures/tex_enviro_cirrus.png.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Textures/tex_enviro_moon_bright.png.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Core/Textures/tex_enviro_moon_standard.png.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Documentation.pdf.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Enviro Lite.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Enviro Lite/Materials.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Enviro Lite/Materials/EnviroLWMoon.mat.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Enviro Lite/Materials/Weather.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Enviro Lite/Materials/Weather/Enviro_RainParticle_LQ.mat.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Enviro Lite/Materials/Weather/Enviro_SnowParticle_LQ.mat.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Enviro Lite/Prefabs.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Enviro Lite/Resources/Shaders/EnviroLiteMoonShaderCustom.shader.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Enviro Lite/Resources/Shaders/EnviroLiteMoonShader.shader.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Enviro Lite/Prefabs/Particle Effects/Near Snow LQ.prefab.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Enviro Lite/Prefabs/Particle Effects/Medium Rain LQ.prefab.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Enviro Lite/Prefabs/Internal/Internal_Enviro_LW.prefab.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Enviro Lite/Prefabs/Internal.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Enviro Lite/Textures/cube_enviro_stars LQ.png.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Enviro Lite/Textures.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Samples.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Samples/GrassLayer.terrainlayer.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Samples/GrassRockLayer.terrainlayer.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Samples/Materials.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Samples/Materials/Ground.mat.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Samples/Prefabs.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Samples/Prefabs/DemoController.prefab.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Samples/Prefabs/SampleHouse.prefab.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Samples/Prefabs/UI.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Samples/Prefabs/UI/Canvas.prefab.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Samples/RockLayer.terrainlayer.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Samples/Sample Terrain.asset.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Samples/Textures.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Samples/Textures/grassBillboard.png.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Samples/Textures/Terrain Textures.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Samples/Textures/Terrain Textures/CliffAlbedoSpecular.psd.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Samples/Textures/Terrain Textures/GrassHillAlbedo.psd.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Samples/Textures/Terrain Textures/GrassRockyAlbedo.psd.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Samples/Textures/Terrain Textures/SandAlbedo.psd.meta
+Assets/Asset Packs/Enviro - Sky and Weather/Update Notes.txt.meta
+Assets/Asset Packs/Enviro - Sky and Weather/version.txt.meta
+Assets/Asset Packs/InfinityPBR/Editor.meta
+Assets/Asset Packs/StarterAssets/Environment/Prefabs/Long Wall.prefab.meta
+Assets/Game/Characters/Patrol Path.prefab.meta
+Assets/Game/Characters/Portal.prefab.meta
+Assets/Game/Core/Core.prefab.meta
+Assets/Game/Core/Fader.prefab.meta
+Assets/Game/Core/PersistentObjects.prefab.meta
+Assets/Game/Core/Saving.prefab.meta
