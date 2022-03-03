@@ -46,7 +46,7 @@ public class EnviroReflectionProbe : MonoBehaviour
     private RenderTexture renderTexture;
     private GameObject renderCamObj;
     private Material mirror = null;
-    private Material bakeMat = null;
+    // private Material bakeMat = null;
     private Material convolutionMat;
     private Coroutine refreshing;
     private bool paused = false;
