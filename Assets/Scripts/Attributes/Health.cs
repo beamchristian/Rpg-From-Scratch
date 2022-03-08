@@ -9,28 +9,48 @@ namespace RPG.Attributes
         
         public class Health : MonoBehaviour, ISaveable
         {
-            [SerializeField] float healthPoints = 100f;
+            [SerializeField] float regenerationPercentage = 100;
+
+
+            float healthPoints = -1f;
 
             bool isDead = false;
 
             private void Start() 
             {
-                healthPoints = GetComponent<BaseStats>().GetStat(Stat.Health);
+                GetComponent<BaseStats>().onLevelUp += RegenerateHealth;
+                if (healthPoints < 0)
+                {
+                    healthPoints = GetComponent<BaseStats>().GetStat(Stat.Health);
+                } 
+                
             }
 
-            public bool IsDead()
+        public bool IsDead()
             {
                 return isDead;
             }
 
             public void TakeDamage(GameObject instigator, float damage)
             {
+                print(gameObject.name + " took damage: " + damage);
+
                 healthPoints = Mathf.Max(healthPoints - damage, 0);
                 if(healthPoints == 0)
                 {
                     Die();
                     AwardExperience(instigator);
                 }
+            }
+
+            public float GetHealthPoints()
+            {
+                return healthPoints;
+            }
+
+            public float GetMaxHealthPoints()
+            {
+                return GetComponent<BaseStats>().GetStat(Stat.Health);
             }
 
 
@@ -57,6 +77,12 @@ namespace RPG.Attributes
                 experience.GainExperience(GetComponent<BaseStats>().GetStat(Stat.ExperienceReward));
             }
 
+            private void RegenerateHealth()
+            {
+                float regenHealthPoints = GetComponent<BaseStats>().GetStat(Stat.Health) * (regenerationPercentage / 100);
+                healthPoints = Mathf.Max(healthPoints, regenHealthPoints);
+            }
+
 
             public object CaptureState()
             {
@@ -65,7 +91,7 @@ namespace RPG.Attributes
 
             public void RestoreState(object state)
             {
-                healthPoints = (float)state;
+                healthPoints = (float) state;
 
                 if(healthPoints == 0)
                 {
