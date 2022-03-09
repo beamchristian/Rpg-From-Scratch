@@ -83,6 +83,7 @@ namespace RPG.Combat
         {
             return percentageBonus;
         }
+        
         public float GetRange()
         {
             return weaponRange;
