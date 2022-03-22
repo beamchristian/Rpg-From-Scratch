@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using RPG.Attributes;
 using UnityEngine;
+using UnityEngine.Events;
 
 namespace RPG.Combat
 {
@@ -14,6 +15,7 @@ namespace RPG.Combat
         // Used timed deletion instead because code referenced particle system
         // [SerializeField] GameObject[] destroyOnHit = null;
         // [SerializeField] float lifeAfterImpact = 2;
+        [SerializeField] UnityEvent onHit;
 
         Health target = null;
         GameObject instigator = null;
@@ -60,6 +62,8 @@ namespace RPG.Combat
             target.TakeDamage(instigator, damage);
 
             speed = 0;
+            
+            onHit.Invoke();
 
             if(hitEffect != null)
             {
